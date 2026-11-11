@@ -1,0 +1,18 @@
+# Build outputs
+ARC_SCS
+tools/graph_tool
+*.o
+*.d
+__pycache__/
+*.pyc
+
+# User data and generated indexes
+*.bin
+*.idx
+
+# Editor and system files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
